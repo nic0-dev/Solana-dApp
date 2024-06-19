@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # solana-anchor-dapp
 
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
@@ -94,3 +95,6 @@ Build the web app
 ```shell
 npm run build
 ```
+=======
+# Solana-dApp
+>>>>>>> 90eb751a2169d9f22ac2bfe1d7fedd293f9cee4e
